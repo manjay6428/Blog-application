@@ -60,7 +60,10 @@
   }
   @media screen and (max-width: 700px ) {
     .writeSubmit {
-      right: 50px;
-      bottom: 70;
+      bottom: 100;
+    }
+    .writeImg {
+      margin-left: 10px;
+      
     }
   }
