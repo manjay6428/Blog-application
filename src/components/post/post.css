@@ -31,6 +31,9 @@
     font-weight: 900;
     margin-top: 15px;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
+    list-style: none;
   }
   .postDate {
     font-family: "Lora", serif;
@@ -53,3 +56,4 @@
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
   }
+  

@@ -23,9 +23,9 @@ const Sidebar = () => {
       <div className="sidebarItem">
       <span className='sidebarTitle'>FOLLOW US</span>
       <div className='sidebarSocial'>
-      <i class="sidebarIcon fa-brands fa-square-facebook"></i>
-      <i class="sidebarIcon fa-brands fa-instagram"></i>
-      <i class="sidebarIcon fa-brands fa-twitter"></i>
+      <a href='https://www.facebook.com/manjay.kumar.75457081'><i class="sidebarIcon fa-brands fa-square-facebook"></i></a>
+      <a href='https://www.instagram.com/_its_manjay/'><i class="sidebarIcon fa-brands fa-instagram"></i></a>
+      <a href='https://twitter.com/Manjayk10662818'><i class="sidebarIcon fa-brands fa-twitter"></i></a>
       </div>
       </div>
     </div>
