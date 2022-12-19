@@ -29,10 +29,11 @@
         height: 200px;
         margin-top: 80px;
         object-fit: contain;
+        margin-bottom: 40px;
     }
     .headerTitles span{
         font-size: 32px;
-        margin-left: 30%;
-        margin-top: 60px;
+        margin-left: 20%;
+        margin-top: 90px;
     }
   }
