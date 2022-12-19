@@ -7,6 +7,7 @@ import Settings from './pages/settings/Settings';
 import Login from './pages/login/Login';
 import Register from './pages/register/Register';
 import {BrowserRouter as Router , Switch,  Route, Link} from "react-router-dom";
+import Contact from './pages/contact/Contact';
 function App() {
   const user = false;
   return (
@@ -14,6 +15,7 @@ function App() {
       
       <Router>
         <Topbar/>
+         
         <Switch>
           <Route exact path='/'>
             <Home/>
@@ -25,13 +27,19 @@ function App() {
             {user? <Home/>:<Login/>}
           </Route>
           <Route path='/write'>
-            {user?<Write/>:<Register/>}
+          {/* this one is correct just uncomment it and 32th line erase it */}
+            {/* {user?<Write/>:<Register/>} */}
+            <Write/>
           </Route>
           <Route path='/settings'>
             {user?<Settings/>:<Register/>}
-          </Route>
-          <Route path='/post/:postId'>
+          </Route>  
+          {/* <Route path='/post/:postId'> */}
+           <Route path='/single'>
             <Single/>
+          </Route>
+          <Route path='/contact'>
+          <Contact/>
           </Route>
 
         </Switch>

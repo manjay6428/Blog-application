@@ -5,9 +5,12 @@ const topbar = () => {
   return (
     <div className='top'>
       <div className='topLeft'>
-      <i class="topIcon fa-brands fa-square-facebook"></i>
-      <i class="topIcon fa-brands fa-instagram"></i>
-      <i class="topIcon fa-brands fa-twitter"></i>
+      <a href='https://www.facebook.com/manjay.kumar.75457081' ><i class="topIcon fa-brands fa-square-facebook"></i></a>
+      <a href='https://www.instagram.com/_its_manjay/' ><i class="topIcon fa-brands fa-instagram"></i></a>
+      <a href='https://twitter.com/Manjayk10662818' ><i class="topIcon fa-brands fa-twitter"></i></a>
+      
+      
+      
       </div>
       <div className='topCenter'>
         <ul className='topList'>

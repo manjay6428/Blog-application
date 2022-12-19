@@ -21,7 +21,7 @@
     border-top: 1px solid #a7a4a4;
     border-top: 1px solid #a7a4a4;
     font-family: 'Varela Round', sans-serif;
-    font-size: 12px;
+    font-size: 32px;
     color: #222;
     font-weight: 200;
     line-height: 200px;
@@ -32,6 +32,7 @@
 }
 .sidebarItem >p{
   padding: 30px;
+  font-size: 17px;
 }
 .sidebarList{
     list-style: none;

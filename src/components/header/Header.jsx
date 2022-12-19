@@ -8,7 +8,7 @@ const Header = () => {
         <span className='headerTitleLg'>Blog</span>
          
       </div>
-      <img className='headerImg' src='https://imgs.search.brave.com/8TolkOi7lierS5Kgor7yl_bXpYC1v9LSEQ7Xv559hvk/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI1NTkz/NjIuanBn' alt=''/>
+      <img className='headerImg' src='https://www.theholidayspot.com/friendship/wallpapers/images_hd/friendship-wallpaper-800x600-06.jpg' alt=''/>
     </div>
   )
 }

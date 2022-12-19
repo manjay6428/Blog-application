@@ -3,7 +3,7 @@ import './post.css'
 const Post = () => {
   return (
     <div className='post'>
-      <img className='postImg' src='https://cdn.pixabay.com/photo/2019/07/20/20/11/nature-4351455_960_720.jpg'/>
+      <img className='postImg' src='https://media.istockphoto.com/id/1287190599/photo/amazing-click-heaven-in-uttarakhand-kedarnath-dham.jpg?b=1&s=170667a&w=0&k=20&c=DOlbmVj_xlugwYj_GMOfawKvi35yuDNwkwDb5gwtIAY='/>
       <div className='postInfo'>
         <div className='postCats'>
             <span className='postCat'>Music</span>

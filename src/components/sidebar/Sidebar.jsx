@@ -6,7 +6,8 @@ const Sidebar = () => {
       <div className='sidebarItem'>
         <span className='sidebarTitle'>ABOUT ME</span>
         <img src='https://manjayportfolio.netlify.app/images/user%20now.jpg'/>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>I am final year graduate computer science engineering student,keen to work in an IT field , where i can grow my personal and professional skills .
+        <br/> <br/> A little details about me: Relevant Coursework: Computer Engineering Fundamentals,Networking, good understanding of data structures & algorithms,operating system and some programming language. <br/> <br/> I have worked over various projects in skills of web development , programming language and desktop applications. Seeking to work in a challenging environment that encourages me to improve and learn new and necessary skills.</p>
       </div>
       <div className="sidebarItem">
       <span className='sidebarTitle'>CATEGORIES</span>
