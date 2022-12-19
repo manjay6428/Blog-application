@@ -28,7 +28,7 @@
         width: 100vh;
         height: 200px;
         margin-top: 80px;
-        object-fit: contain;
+        object-fit: fill;
     }
     .headerTitles span{
         margin-left: 70%;
