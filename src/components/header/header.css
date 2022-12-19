@@ -31,6 +31,8 @@
         object-fit: fill;
     }
     .headerTitles span{
+        font-size: 32px;
         margin-left: 70%;
+        margin-top: 40px;
     }
   }
