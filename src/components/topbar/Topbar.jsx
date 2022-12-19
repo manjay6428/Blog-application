@@ -40,8 +40,8 @@ const topbar = () => {
           <img className='topImg' src='https://manjayportfolio.netlify.app/images/user%20now.jpg'/>
         ) : (
           <>
-          <a href='/login' className='loginHome' style={{textDecoration:"none",color:"inherit"}}>LOGIN</a>
-          <a href='/register' style={{textDecoration:"none",color:"inherit"}}>REGISTER</a>
+          <a href='/login' className='loginHome' style={{textDecoration:"none",color:"inherit", fontSize:13}}>LOGIN</a>
+          <a href='/register' style={{textDecoration:"none",color:"inherit",fontSize:13}}>REGISTER</a>
           </>
         )
       }
